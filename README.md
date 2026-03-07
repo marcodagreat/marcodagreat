@@ -69,8 +69,7 @@ This environment allows me to practice **Blue Team defensive operations** while 
 ---
 
 ## 🧪 Featured Cybersecurity Projects
-
-### 🌉 Virtual Network Lab - Dedicated Bridge Network Setup 
+ 
 ### 🔎 SOC Monitoring Lab
 
 A simulated enterprise network monitored using **Splunk SIEM** for threat detection.
