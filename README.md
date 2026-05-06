@@ -159,7 +159,4 @@ My goal is to become a **SOC Analyst / Blue Team Security Analyst**, specializin
 
 ---
 
-
----
-
 🔐 *Learning cybersecurity through building, attacking, and defending systems.*
