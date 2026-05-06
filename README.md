@@ -72,7 +72,7 @@ This environment allows me to practice **Blue Team defensive operations** while 
  
 ### 🔎  <a href= "https://github.com/marcodagreat/cybersecurity-homelab-network-setup/tree/main">Enterprise Cybersecurity Homelab Network Lab</a>
 
-A simulated enterprise network monitored using **Splunk SIEM** for threat detection.
+This lab was designed to simulate enterprise-style network infrastructure and strengthen hands-on experience in networking, system administration, segmentation, and security operations.
 
 **Skills Demonstrated**
 
