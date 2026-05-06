@@ -159,8 +159,6 @@ My goal is to become a **SOC Analyst / Blue Team Security Analyst**, specializin
 
 ---
 
-## Projects
-- <a href= "https://github.com/marcodagreat/cybersecurity-homelab-network-setup/tree/main">Enterprise Cybersecurity Homelab Network Lab</a>
 
 ---
 
