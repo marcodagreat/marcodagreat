@@ -76,11 +76,17 @@ This lab was designed to simulate enterprise-style network infrastructure and st
 
 **Skills Demonstrated**
 
-- Log ingestion
-- Event correlation
-- Threat detection
-- Security monitoring
-- Security event analysis
+- Network segmentation
+- Virtualization
+- RouterOS configuration
+- Routing and NAT
+- Firewall rule management
+- Active Directory deployment
+- Linux and Windows administration
+- SIEM lab design
+- Troubleshooting and validation
+- Cybersecurity documentation
+
 
 ---
 
