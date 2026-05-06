@@ -70,7 +70,7 @@ This environment allows me to practice **Blue Team defensive operations** while 
 
 ## 🧪 Featured Cybersecurity Projects
  
-### 🔎 SOC Monitoring Lab
+### 🔎  <a href= "https://github.com/marcodagreat/cybersecurity-homelab-network-setup/tree/main">Enterprise Cybersecurity Homelab Network Lab</a>
 
 A simulated enterprise network monitored using **Splunk SIEM** for threat detection.
 
