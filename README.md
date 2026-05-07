@@ -70,7 +70,7 @@ This environment allows me to practice **Blue Team defensive operations** while 
 
 ## 🧪 Featured Cybersecurity Projects
  
-### 🔎  <a href= "https://github.com/marcodagreat/cybersecurity-homelab-network-setup/tree/main">Enterprise Cybersecurity Homelab Network Lab</a>
+### <a href= "https://github.com/marcodagreat/cybersecurity-homelab-network-setup/tree/main">Enterprise Cybersecurity Homelab Network Lab</a>
 
 This lab was designed to simulate enterprise-style network infrastructure and strengthen hands-on experience in networking, system administration, segmentation, and security operations.
 
