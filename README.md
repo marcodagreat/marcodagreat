@@ -72,6 +72,8 @@ This environment allows me to practice **Blue Team defensive operations** while 
  
 ### <a href= "https://github.com/marcodagreat/cybersecurity-homelab-network-setup/tree/main">Enterprise Cybersecurity Homelab Network Lab</a>
 
+### <a href= "https://github.com/marcodagreat/SOC-Homelab-splunk-sysmon">SOC Homelab-Splunk, sysmon & SIEM Integration</a>
+
 This lab was designed to simulate enterprise-style network infrastructure and strengthen hands-on experience in networking, system administration, segmentation, and security operations.
 
 **Skills Demonstrated**
