@@ -72,10 +72,22 @@ This environment allows me to practice **Blue Team defensive operations** while 
  
 ### <a href= "https://github.com/marcodagreat/cybersecurity-homelab-network-setup/tree/main">Enterprise Cybersecurity Homelab Network Lab</a>
 
-### <a href= "https://github.com/marcodagreat/SOC-Homelab-splunk-sysmon">SOC Homelab-Splunk, sysmon & SIEM Integration</a>
-
 This lab was designed to simulate enterprise-style network infrastructure and strengthen hands-on experience in networking, system administration, segmentation, and security operations.
 
+---
+
+### <a href= "https://github.com/marcodagreat/SOC-Homelab-splunk-sysmon">SOC Homelab-Splunk, sysmon & SIEM Integration</a>
+
+Enterprise-style SIEM lab featuring Splunk, Sysmon, centralized logging, Active Directory, Linux syslog integration, and endpoint telemetry validation
+
+---
+
+### <a href= "https://github.com/marcodagreat/Active-Directory-Reconnaissance-Detection-with-Splunk-and-Sysmon/tree/main">Active Directory Reconnaissance Detection with Splunk and Sysmon</a>
+
+Built a SOC-style cybersecurity lab utilizing Active Directory, Sysmon, Splunk Enterprise, Kali Linux, and MikroTik firewall controls to detect, investigate, and contain reconnaissance activity through custom SPL detections and network segmentation.
+
+ ---
+ 
 **Skills Demonstrated**
 
 - Network segmentation
