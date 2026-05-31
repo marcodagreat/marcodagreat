@@ -88,7 +88,7 @@ Built a SOC-style cybersecurity lab utilizing Active Directory, Sysmon, Splunk E
 
  ---
  
-**Skills Demonstrated**
+## Skills Demonstrated
 
 - Network segmentation
 - Virtualization
