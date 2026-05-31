@@ -82,7 +82,7 @@ Enterprise-style SIEM lab featuring Splunk, Sysmon, centralized logging, Active 
 
 ---
 
-### <a href= "https://github.com/marcodagreat/Active-Directory-Reconnaissance-Detection-with-Splunk-and-Sysmon/tree/main">Active Directory Reconnaissance Detection with Splunk and Sysmon</a>
+### <a href= "https://github.com/marcodagreat/Active-Directory-Reconnaissance-Detection-with-Splunk-and-Sysmon">Active Directory Reconnaissance Detection with Splunk and Sysmon</a>
 
 Built a SOC-style cybersecurity lab utilizing Active Directory, Sysmon, Splunk Enterprise, Kali Linux, and MikroTik firewall controls to detect, investigate, and contain reconnaissance activity through custom SPL detections and network segmentation.
 
