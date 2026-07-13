@@ -87,6 +87,12 @@ Enterprise-style SIEM lab featuring Splunk, Sysmon, centralized logging, Active 
 Built a SOC-style cybersecurity lab utilizing Active Directory, Sysmon, Splunk Enterprise, Kali Linux, and MikroTik firewall controls to detect, investigate, and contain reconnaissance activity through custom SPL detections and network segmentation.
 
  ---
+
+### <a href= "https://github.com/marcodagreat/End-to-End-SOC-Investigation-with-Splunk-">Active Directory Reconnaissance, RDP Brute-Force Detection, Triage, Containment, Remediation, and Incident Response</a>
+
+The lab focused on detecting reconnaissance activity and a simulated RDP brute-force attack against a domain-joined Windows 11 endpoint. Splunk Enterprise was used to centralize Windows Security and Sysmon telemetry, correlate attacker behavior, identify affected systems and accounts, map activity to MITRE ATT&CK, support analyst triage, and validate the effectiveness of Active Directory and Group Policy remediation controls.
+
+ ---
  
 ## Skills Demonstrated
 
